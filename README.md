@@ -14,7 +14,7 @@
   </a>&nbsp;&nbsp;
  </p>
 
-### Languages @ Frameworks
+### Languages & Frameworks
 
  <p align="center">
    <img  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;
