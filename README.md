@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IamEnoch&count_private=true&show_icons=true&theme=dark" alt="Enoch Mwangi" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamEnoch&hide=html&langs_count=8&layout=compact&theme=dark" alt="Enoch Mwangi" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bifrost&theme=dark&langs_count=7&show_icons=true" alt="Enoch Mwangi"/>
+    <img src="https://github-readme-stats-iamenoch.vercel.app/api?username=IamEnoch&count_private=true&show_icons=true&theme=dark" alt="Enoch Mwangi" width="420"/>
+    <img src="https://github-readme-stats-iamenoch.vercel.app/api/top-langs/?username=IamEnoch&hide=html&langs_count=8&layout=compact&theme=dark" alt="Enoch Mwangi" height="165" />
+  <img src="https://github-readme-stats-iamenoch.vercel.app/api/wakatime?username=Bifrost&theme=dark&langs_count=7&show_icons=true" alt="Enoch Mwangi"/>
  </p>
