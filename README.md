@@ -3,7 +3,7 @@
 <h3 align="center">A Software developer.</h3>
 
 - 👨🏾‍💻 Currently working on C#, .NET, Dart and Flutter.
-- ✌🏾 .Net Developer
+- ✌🏾 donet Developer
   
 <p align="center">
  <a href="https://twitter.com/enoch_mwangi">
